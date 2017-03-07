@@ -2,7 +2,7 @@
   "name": "d3",
   "version": "1.0.0",
   "description": "This project implements data virsualization with d3.js library",
-  "main": "d3.v3.min.js",
+  "main": "app.js",
   "dependencies": {
     "express": "^4.15.2"
   },
